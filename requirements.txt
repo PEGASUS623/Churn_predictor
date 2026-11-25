@@ -6,3 +6,5 @@ requests==2.34.2
 scikit-learn==1.7.2
 streamlit==1.65.0
 uvicorn==0.54.0
+streamlit==1.65.0
+requests==2.34.2
